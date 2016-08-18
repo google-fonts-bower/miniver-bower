@@ -1,0 +1,17 @@
+{
+    "name": "miniver-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Open Window"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/miniver-bower.git"
+    },
+    "description": "Miniver font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
